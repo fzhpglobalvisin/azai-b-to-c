@@ -1,0 +1,10 @@
+{
+  "name": "Business Strategy Advisor",
+  "description": "An intelligent AI-powered sales performance advisory system that analyzes ERP exports to provide actionable business strategies via voice and visual dashboards.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
